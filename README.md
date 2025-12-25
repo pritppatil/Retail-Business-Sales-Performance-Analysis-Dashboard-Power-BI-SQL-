@@ -37,19 +37,19 @@ Sales data is available, but it exists only in raw transactional format and cont
 To enable data-driven decision-making, a complete analytical solution is required using SQL for data cleaning and Power BI for interactive reporting.
 
 
-🛠️ <ins>Technical Requirements:</ins>
+🛠️ <ins>Technical Requirements</ins>
 
 ✔ Data Cleaning & Preparation — SQL
 
-Remove duplicates
+- Remove duplicates
 
-Handle missing values
+- Handle missing values
 
-Validate revenue calculations
+- Validate revenue calculations
 
-Create time-based fields (Month, Year, Quarter)
+- Create time-based fields (Month, Year, Quarter)
 
-Prepare analysis-ready tables
+- Prepare analysis-ready tables
 
 ✔ Dashboard Development — Power BI
 
